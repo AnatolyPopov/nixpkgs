@@ -41,6 +41,7 @@ Structure the final answer as:
 3. Price-by-seller table.
 4. Alternatives table with the one-line reason each loses (or wins for a different user profile: "if you're under 1.85 m…", "if bubbles matter more…").
 5. **Practical pre-purchase checks** the user might not think of (floor space, water heater capacity, weight limits, power outlet, ongoing costs).
+   - **Inner/usable dimensions, not just outer footprint**: compare the product's usable interior (floor width, inner length, seat width) against the user's body, not only the outer size against the room. Form factors trade these off differently (e.g., foldable tubs' sloped walls shrink a 60 cm outer width to a ~36 cm floor; inflatables keep a wide floor but lose inner length to fat walls). A product that fits the space but not the person is the wrong product.
 6. Brand-premium verdict: what the extra money actually buys (warranty, returns, support, QC) and whether it's worth it for this product's failure modes (e.g., 200 L of water on the floor makes warranty non-trivial).
 7. Sources as markdown links.
 
